@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows  9]]>
+    </line>
+    <line>
+      <![CDATA[Login success]]>
+    </line>
+    <line>
+      <![CDATA[Invalid credentials]]>
+    </line>
+    <line>
+      <![CDATA[Invalid credentials]]>
+    </line>
+    <line>
+      <![CDATA[Login success]]>
+    </line>
+    <line>
+      <![CDATA[Username cannot be empty]]>
+    </line>
+    <line>
+      <![CDATA[Password cannot be empty]]>
+    </line>
+    <line>
+      <![CDATA[Login success]]>
+    </line>
+    <line>
+      <![CDATA[Username cannot be empty]]>
+    </line>
+    <line>
+      <![CDATA[Login success]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-07-01T18:18:03 IST" name="Surefire suite" finished-at="2025-07-01T18:18:49 IST" duration-ms="46331">
+    <groups>
+    </groups>
+    <test started-at="2025-07-01T18:18:03 IST" name="Surefire test" finished-at="2025-07-01T18:18:49 IST" duration-ms="46331">
+      <class name="driverFactory.AppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverFactory.AppTest@4386f16]" started-at="2025-07-01T18:18:03 IST" name="setUp" finished-at="2025-07-01T18:18:09 IST" duration-ms="5924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="startTest()[pri:0, instance:driverFactory.AppTest@4386f16]" started-at="2025-07-01T18:18:09 IST" name="startTest" finished-at="2025-07-01T18:18:48 IST" duration-ms="38976" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows  9]]>
+            </line>
+            <line>
+              <![CDATA[Login success]]>
+            </line>
+            <line>
+              <![CDATA[Invalid credentials]]>
+            </line>
+            <line>
+              <![CDATA[Invalid credentials]]>
+            </line>
+            <line>
+              <![CDATA[Login success]]>
+            </line>
+            <line>
+              <![CDATA[Username cannot be empty]]>
+            </line>
+            <line>
+              <![CDATA[Password cannot be empty]]>
+            </line>
+            <line>
+              <![CDATA[Login success]]>
+            </line>
+            <line>
+              <![CDATA[Username cannot be empty]]>
+            </line>
+            <line>
+              <![CDATA[Login success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverFactory.AppTest@4386f16]" started-at="2025-07-01T18:18:48 IST" name="tearDown" finished-at="2025-07-01T18:18:49 IST" duration-ms="1380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
